@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Mutliplayer Game Tournament",
+        "details":"Game&Tech offers a wide range of multiplayer game tournaments, catering to various gaming genres, including first-person shooters, strategy games, sports simulations, and more",
+        "price":2000,
+        "image":"game3.jpg"
+    },
+    {
+        "id": 2,
+        "title": "E-Sport Extravaganza",
+        "details": "E-Sport Extravaganza hosts thrilling multiplayer game tournaments featuring a diverse array of gaming genres, including MOBAs, battle royales, and fighting games, to provide an electrifying gaming experience.",
+        "price": 2500,
+        "image":"game2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "FPS Championship Showdown",
+        "details": "Join the FPS Championship Showdown for intense first-person shooter battles, featuring top esports titles like Counter-Strike: Global Offensive and Valorant. Compete for glory and amazing prizes!",
+        "price": 1800,
+        "image":"game1.jpg"
+    },
+    {
+        "id":4,
+        "title":"Interactive Tech Exhibit",
+        "details":"Create an interactive exhibit that showcases innovative technologies and allows attendees to try them out for themselves. This could include things like drones, 3D printers, robots, and smart home devices.",
+        "price":3000,
+        "image":"tech1.jpg"
+    },
+    {
+        "id": 5,
+        "title": "FutureTech Expo",
+        "details": "The FutureTech Expo is your gateway to the world of cutting-edge technology. Explore the latest advancements in AI, virtual reality, augmented reality, and more. Get hands-on with revolutionary tech innovations!",
+        "price": 3500,
+        "image":"tech2.jpg"
+    },
+    {
+        "id": 6,
+        "title": "AI Expo 2023",
+        "details": "AI Expo 2023 is your window into the world of artificial intelligence. Discover how AI is transforming industries, from healthcare to finance. Witness live demos and engage with AI experts.",
+        "price": 3200,
+        "image":"tech3.jpg"
+    }
+]

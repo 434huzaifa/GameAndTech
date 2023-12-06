@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "title": "Event Planning and Logistics",
+    "details": "The company should excel in meticulous event planning, including venue selection, scheduling, equipment setup, and attendee logistics. Attention to detail is crucial to ensure a smooth event.",
+    "image": "plan.jpg"
+  },
+  {
+    "id":2,
+    "title": "Technology Expertise",
+    "details": "Given the tech-centric nature of events, staying updated with the latest technology trends, such as VR/AR, live streaming, and interactive apps, is essential. The company should offer cutting-edge tech solutions",
+    "image": "tech.jpg"
+  },
+  {
+    "id":3,
+    "title": "Content Curation",
+    "details": "Facilitating meaningful connections among attendees, sponsors, and speakers is vital. The company should create networking spaces and activities to encourage collaboration and relationship-building.",
+    "image": "content.jpg"
+  },
+  {
+    "id":4,
+    "title": "Marketing and Promotion",
+    "details": "A focus on content quality and relevance is important. The company should help clients develop engaging presentations, workshops, and panel discussions that resonate with the target audience",
+    "image": "marketing.jpg"
+  },
+  {
+    "id":5,
+    "title": "Security and Privacy",
+    "details": "Effective promotion and marketing strategies are essential to attract a diverse and engaged audience. This includes utilizing social media, email marketing, and partnerships to maximize event reach.",
+    "image": "security.jpg"
+  },
+  {
+    "id":6,
+    "title": "Client Collaboration",
+    "details": "Strong collaboration with clients to understand their specific goals and objectives is key. Tailoring event strategies to meet client needs and expectations is crucial for success.",
+    "image": "collab.jpg"
+  }
+]
